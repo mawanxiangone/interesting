@@ -14,6 +14,11 @@
 ### :fearful: hackingtool
 [hackingtool](https://github.com/Z4nzu/hackingtool)
 ![hackingtool](https://github.com/mawanxiangone/interesting/assets/142721542/27b0c8c7-ac55-4aee-a18e-96aaecb54da2)
+### :fearful: DevToys
+[hackingtool](https://github.com/veler/DevToys)
+![DevToys](https://github.com/mawanxiangone/interesting/assets/142721542/ccc953e9-b313-4983-b5e9-e42d0e3e68d2)
+### :fearful: gaussian-splatting高斯飞溅实时辐射场渲染
+[高斯飞溅实时辐射场渲染](https://github.com/LorisYounger/VPet)
 
 ## :stuck_out_tongue: 他山之玉
 ### :fearful: c50projects50
@@ -25,3 +30,9 @@
 ## :stuck_out_tongue: 人工智能
 ### :fearful: MetaGPT
 [MetaGPT](https://github.com/geekan/MetaGPT)
+
+## :stuck_out_tongue: 没用的东西
+### :fearful: VPet-Simulator虚拟桌宠模拟器
+[虚拟桌宠模拟器](https://github.com/LorisYounger/VPet)
+![image](https://github.com/mawanxiangone/interesting/assets/142721542/2f017785-b26f-45eb-8969-7ddc087f7a76)
+
