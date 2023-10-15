@@ -1,7 +1,7 @@
 
-# 书籍理论
-## 算法
-[hello-algo](https://www.hello-algo.com/chapter_preface/):
+# :stuck_out_tongue: 书籍理论
+## :fearful: 算法
+[hello-algo](https://www.hello-algo.com/chapter_preface/)
 > 本项目旨在创建一本开源免费、新手友好的数据结构与算法入门教程。
 - 全书采用动画图解，结构化地讲解数据结构与算法知识，内容清晰易懂、学习曲线平滑。
 - 算法源代码皆可一键运行，支持 Java、C++、Python、Go、JS、TS、C#、Swift、Rust、Dart、Zig 等语言。
