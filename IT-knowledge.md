@@ -30,6 +30,9 @@
 ## :stuck_out_tongue: 人工智能
 ### :fearful: MetaGPT
 [MetaGPT](https://github.com/geekan/MetaGPT)
+### :fearful: Llama2-Chinese
+欢迎来到Llama中文社区！我们是一个专注于Llama模型在中文方面的优化和上层建设的高级技术社区。 *基于大规模中文数据，从预训练开始对Llama2模型进行中文能力的持续迭代升级*。 我们热忱欢迎对大模型LLM充满热情的开发者和研究者加入我们的行列。
+[Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese)
 
 ## :stuck_out_tongue: 没用的东西
 ### :fearful: 虚拟桌宠模拟器
