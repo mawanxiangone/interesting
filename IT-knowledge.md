@@ -42,6 +42,13 @@
 
 🤝 开放共享：我们鼓励社区成员开源分享代码和模型，推动合作共赢，共同促进中文NLP技术的发展。
 [Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese)
+### :fearful: facefusion
+[facefusion](https://github.com/facefusion/facefusion)
+![facefusion](https://github.com/mawanxiangone/interesting/assets/142721542/00f4fd97-1fb9-44ec-a686-dfdb86abcedc)
+### :fearful: lllyasviel
+[lllyasviel](https://github.com/lllyasviel/Fooocus)
+![lllyasviel](https://github.com/mawanxiangone/interesting/assets/142721542/e65c628b-cc58-429f-8b5c-202e01710b3c)
+
 
 ## :stuck_out_tongue: 没用的东西
 ### :fearful: 虚拟桌宠模拟器
