@@ -8,6 +8,6 @@
 - 😃 jq: json文件处理以及格式化显示，支持高亮，可以替换python -m json.tool
 - 😃 [you-get](https://github.com/soimort/you-get/wiki/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E): 非常强大的媒体下载工具，支持youtube、google+、优酷、芒果TV、腾讯视频、秒拍等视频下载。
 ## 💀 艺术视觉
-- [weavesilk](http://weavesilk.com/): 光影自由绘画
+- 😃 [weavesilk](http://weavesilk.com/): 光影自由绘画
   ![weavesilk](https://github.com/mawanxiangone/interesting/assets/142721542/684c4326-7721-4c8c-ab8f-35fb0bf3b83e)
 
