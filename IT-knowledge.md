@@ -17,5 +17,6 @@
 
 ## :stuck_out_tongue: 他山之玉
 ### :fearful: 50projects50
+> 50 个采用 HTML+CSS+JS 的前端小项目集合。项目包含网页源码和效果展示，标准入门级的前端开源项目。通过查看效果让新手感受前端的美妙，简单的源码降低了上手写代码门槛。
 [50projects](https://github.com/bradtraversy/50projects50days)
 ![image](https://github.com/mawanxiangone/interesting/assets/142721542/124e51d6-5475-4943-b3f0-f27a982fca13)
