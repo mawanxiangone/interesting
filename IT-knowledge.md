@@ -15,3 +15,7 @@
 [hackingtool](https://github.com/Z4nzu/hackingtool)
 ![hackingtool](https://github.com/mawanxiangone/interesting/assets/142721542/27b0c8c7-ac55-4aee-a18e-96aaecb54da2)
 
+## :stuck_out_tongue: 他山之玉
+### :fearful: 50projects50
+[50projects](https://github.com/bradtraversy/50projects50days)
+![image](https://github.com/mawanxiangone/interesting/assets/142721542/124e51d6-5475-4943-b3f0-f27a982fca13)
