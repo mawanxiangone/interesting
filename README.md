@@ -21,9 +21,15 @@
 - 😃 [weavesilk](http://weavesilk.com/): 光影自由绘画
   ![weavesilk](https://github.com/mawanxiangone/interesting/assets/142721542/684c4326-7721-4c8c-ab8f-35fb0bf3b83e)
 ### 🏡 世界名画拼图
-- 😃  [gallerix](https://gallerix.asia/): 世界名画拼图
+- 😃 [gallerix](https://gallerix.asia/): 世界名画拼图
 ![image](https://github.com/mawanxiangone/interesting/assets/142721542/dd7ec06c-ebac-4252-97a9-003a4b5c452c)
+### 🏡 改图鸭
+- 😃 [改图鸭](https://www.gaituya.com/aiimg/): 改图鸭:AI绘画
 
+## 💀 旋律悠扬
+### 🏡 tools.liumingye
+- 😃 [tools.liumingye](https://tools.liumingye.cn/music/#/): 免费音乐
+  ![image](https://github.com/mawanxiangone/interesting/assets/142721542/9ea04808-6fe3-43cd-ac7a-bd9776fd832f)
 
 ## 💀 游戏次元
 ### 🏡 poki
@@ -40,5 +46,9 @@
 - 😃 [纪妖](https://www.cbaigui.com/):
 ![image](https://github.com/mawanxiangone/interesting/assets/142721542/cf3abb83-7b5f-472f-861e-f12a40cc181d)
 
-
-
+## 💀 无用大瓠
+### 🏡 随机网站
+- 😃 [随机网站](https://theuselessweb.com/)
+  ![image](https://github.com/mawanxiangone/interesting/assets/142721542/49431842-26d8-4de6-8ff0-13e22b175a4a)
+### 🏡 全球高清实况摄像头
+- 😃 [全球高清实况摄像头](https://www.skylinewebcams.com/)
