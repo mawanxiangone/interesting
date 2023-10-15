@@ -27,6 +27,9 @@
   ![image](https://github.com/mawanxiangone/interesting/assets/142721542/ca07e3a1-9a2c-4473-9083-bd2832f20e23)
 ### 🏡 人生重开游戏
 - [人生重开游戏](https://liferestart.syaro.io/public/index.html)
+### 🏡 在线喂养金鱼
+- [在线喂养金鱼](https://feedgoldfish.top/)
+![image](https://github.com/mawanxiangone/interesting/assets/142721542/2a458d02-76e8-4482-8e24-d1d59faf20c8)
 
 ## 💀 方块文字
 ### 🏡 纪妖
