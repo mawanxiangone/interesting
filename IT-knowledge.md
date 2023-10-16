@@ -56,6 +56,15 @@ graph TD;
 [定制应用程序仪表板](https://github.com/gethomepage/homepage)
 
 ![定制应用程序仪表板](https://github.com/mawanxiangone/interesting/assets/142721542/a5eb8992-488c-4948-a446-1875e645726e)
+### :fearful: 开源游戏引擎godot
+- 主要语言：C++
+- 项目分类：[游戏]
+- 项目标签：[游戏引擎] [游戏助手]
+- 推荐理由：一款功能丰富的开源游戏引擎。最初是一款 2D 引擎，后来拓展了强大的 3D 能力。尽管相对于成熟的商业引擎如 UE4 或 Unity 来说，Godot 较年轻，特别是在 3D 方面。但它具有简单的开发方式，适合初学游戏开发的人。社区活跃，文档详尽，示例丰富，非常适合初学者。底层代码完全开源，鼓励开发者参与贡献。总之，Godot 是学习游戏开发的理想选择。
+
+[开源游戏引擎godot](https://github.com/godotengine/godot)
+
+![开源游戏引擎godot](https://github.com/mawanxiangone/interesting/assets/142721542/d7a82eb3-c875-46d6-84ef-593878f1f9d4)
 
 
 ## :stuck_out_tongue: 人工智能
