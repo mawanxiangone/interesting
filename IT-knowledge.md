@@ -9,6 +9,10 @@
 - 算法源代码皆可一键运行，支持 Java、C++、Python、Go、JS、TS、C#、Swift、Rust、Dart、Zig 等语言。
 - 鼓励读者在章节讨论区互帮互助、共同进步，提问与评论通常可在两日内得到回复。
 ![算法](https://github.com/mawanxiangone/interesting/assets/142721542/d264344e-e89e-4bbe-a819-73d2cee7711a)
+### :fearful: free-programming-books编程书籍集锦
+[free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)
+![free-programming-books](https://github.com/mawanxiangone/interesting/assets/142721542/8cd57810-dbea-43c7-976f-0d34a8ddbd51)
+
 
 ## :stuck_out_tongue: 生产力工具
 ### :fearful: hackingtool
@@ -19,6 +23,8 @@
 ![DevToys](https://github.com/mawanxiangone/interesting/assets/142721542/ccc953e9-b313-4983-b5e9-e42d0e3e68d2)
 ### :fearful: 高斯飞溅实时辐射场渲染
 [高斯飞溅实时辐射场渲染](https://github.com/LorisYounger/VPet)
+### :fearful: Microsoft-Activation-Scripts
+[Windows和Office激活器:](https://github.com/LorisYounger/VPet)
 
 ## :stuck_out_tongue: 他山之玉
 ### :fearful: c50projects50
