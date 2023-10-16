@@ -24,7 +24,12 @@
 ### :fearful: 高斯飞溅实时辐射场渲染
 [高斯飞溅实时辐射场渲染](https://github.com/LorisYounger/VPet)
 ### :fearful: Microsoft-Activation-Scripts
-[Windows和Office激活器:](https://github.com/LorisYounger/VPet)
+[Windows和Office激活器](https://github.com/massgravel/Microsoft-Activation-Scripts#download--how-to-use-it)
+```mermaid
+graph TD;
+    Windows和Office激活器-->Windows;
+    Windows和Office激活器-->Office;
+```
 
 ## :stuck_out_tongue: 他山之玉
 ### :fearful: c50projects50
