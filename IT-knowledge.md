@@ -47,6 +47,15 @@ graph TD;
 [appwrite](https://github.com/appwrite/appwrite#windows)
 
 ![appwrite](https://github.com/mawanxiangone/interesting/assets/142721542/baa3ed19-d3b0-4509-9fe0-6983b0f92263)
+### :fearful: homepage定制应用程序仪表板
+- 主要语言：JavaScript
+- 项目分类：[工具]
+- 项目标签：[协作工具]
+- 推荐理由：一个全新的应用程序仪表板，具备现代化、全静态、快速、安全、全代理、高度可定制的特点。它集成了超过100个服务，并提供多种语言翻译。您可以通过YAML文件或Docker标签发现来轻松配置此仪表板。homepage的设计注重用户体验和可定制性，以满足各种应用程序监控和管理需求。
+
+[定制应用程序仪表板](https://github.com/gethomepage/homepage)
+
+![定制应用程序仪表板](https://github.com/mawanxiangone/interesting/assets/142721542/a5eb8992-488c-4948-a446-1875e645726e)
 
 
 ## :stuck_out_tongue: 人工智能
