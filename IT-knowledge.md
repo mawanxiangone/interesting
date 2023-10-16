@@ -70,6 +70,13 @@ graph TD;
 ### :fearful: lllyasviel
 [lllyasviel](https://github.com/lllyasviel/Fooocus)
 ![lllyasviel](https://github.com/mawanxiangone/interesting/assets/142721542/e65c628b-cc58-429f-8b5c-202e01710b3c)
+### :fearful: open-interpreter
+- 主要语言：Python
+- 项目分类：[工具] [AI]
+- 项目标签：[人工智能] [LLM] [代码解释器] [自然语言处理]
+- 推荐理由：一个允许在您的终端本地运行OpenAI的代码解释器的项目。它为开发者提供了一种便捷的方式来解释和执行OpenAI生成的代码，使其在本地环境中更易于调试和测试。这个工具对于开发基于OpenAI的应用程序和算法非常有用。
+
+[open-interpreter](https://github.com/KillianLucas/open-interpreter)
 
 
 ## :stuck_out_tongue: 没用的东西
