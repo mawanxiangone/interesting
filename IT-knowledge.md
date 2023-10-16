@@ -77,6 +77,15 @@ graph TD;
 - 推荐理由：一个允许在您的终端本地运行OpenAI的代码解释器的项目。它为开发者提供了一种便捷的方式来解释和执行OpenAI生成的代码，使其在本地环境中更易于调试和测试。这个工具对于开发基于OpenAI的应用程序和算法非常有用。
 
 [open-interpreter](https://github.com/KillianLucas/open-interpreter)
+### :fearful: DocsGPT
+- 主要语言：Python
+- 项目分类：[ChatGPT] [AI]
+- 项目标签：[ChatGPT Web] [GPT模型]
+- 推荐理由：一个基于GPT的文档查询工具，用于与文档进行实时对话。它允许用户通过自然语言进行文档查询，获得详细的解释和答案。DocsGPT通过强大的自然语言处理能力，将文档理解和查询变得更加直观和用户友好。
+
+[DocsGPT](https://github.com/arc53/DocsGPT)
+
+![DocsGPT](https://github.com/mawanxiangone/interesting/assets/142721542/c457f29c-db7f-4180-9f65-f596ca63513a)
 
 
 ## :stuck_out_tongue: 没用的东西
