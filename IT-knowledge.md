@@ -69,6 +69,15 @@ graph TD;
 [开源游戏引擎godot](https://github.com/godotengine/godot)
 
 ![开源游戏引擎godot](https://github.com/mawanxiangone/interesting/assets/142721542/d7a82eb3-c875-46d6-84ef-593878f1f9d4)
+### :fearful: 可视化的Python框架:streamlit
+- 主要语言：Python
+- 项目分类：[前端] [工具] [应用软件]
+- 项目标签：[可视化工具] [编程工具]
+- 推荐理由：Streamlit是一个开源Python库，可以轻松创建和共享用于机器学习和数据科学的漂亮的自定义web应用程序。Streamlit在几分钟内将数据脚本转换为可共享的web应用程序。都是用纯Python编写的。不需要前端经验，你可以随时随地的更快地构建和共享数据应用程序。
+
+[可视化的Python框架:streamlit](hhttps://github.com/streamlit/streamlit)
+
+![可视化的Python框架:streamlit](https://github.com/mawanxiangone/interesting/assets/142721542/61e17667-6f2d-453f-91a0-f1791c9c02a2)
 
 
 ## :stuck_out_tongue: 人工智能
