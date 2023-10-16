@@ -42,6 +42,7 @@ graph TD;
 - 项目分类：[中间件] [工具]
 - 项目标签：[开发工具] [可视化工具] [协作工具] [协作平台] [微服务架构] [开发者平台]
 - 推荐理由：一个端到端的开发者平台，基于Docker构建。它提供了容器化的微服务库，可应用于网页端、移动端和后端。Appwrite通过可视化界面简化了API编写过程，为开发者创造了高效的开发环境，同时保证了软件的安全性。
+
 [appwrite](https://github.com/appwrite/appwrite#windows)
 ![appwrite](https://github.com/mawanxiangone/interesting/assets/142721542/baa3ed19-d3b0-4509-9fe0-6983b0f92263)
 
