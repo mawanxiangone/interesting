@@ -36,6 +36,7 @@ graph TD;
 > 50 个采用 HTML+CSS+JS 的前端小项目集合。项目包含网页源码和效果展示，标准入门级的前端开源项目。通过查看效果让新手感受前端的美妙，简单的源码降低了上手写代码门槛。
 
 [50projects](https://github.com/bradtraversy/50projects50days)
+
 ![image](https://github.com/mawanxiangone/interesting/assets/142721542/124e51d6-5475-4943-b3f0-f27a982fca13)
 ### :fearful: appwrite
 - 主要语言：TypeScript
@@ -44,6 +45,7 @@ graph TD;
 - 推荐理由：一个端到端的开发者平台，基于Docker构建。它提供了容器化的微服务库，可应用于网页端、移动端和后端。Appwrite通过可视化界面简化了API编写过程，为开发者创造了高效的开发环境，同时保证了软件的安全性。
 
 [appwrite](https://github.com/appwrite/appwrite#windows)
+
 ![appwrite](https://github.com/mawanxiangone/interesting/assets/142721542/baa3ed19-d3b0-4509-9fe0-6983b0f92263)
 
 
