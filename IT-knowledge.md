@@ -95,6 +95,15 @@ graph TD;
 [DocsGPT](https://github.com/arc53/DocsGPT)
 
 ![DocsGPT](https://github.com/mawanxiangone/interesting/assets/142721542/c457f29c-db7f-4180-9f65-f596ca63513a)
+### :fearful: LLaVA
+- 主要语言：Python
+- 项目分类：[ChatGPT] [AI]
+- 项目标签：[GPT4] [计算机视觉] [AI助手] [GPT模型] [自然语言处理]
+- 推荐理由：一个面向多模式GPT-4级别能力构建的助手。它结合了自然语言处理和计算机视觉，为用户提供了强大的多模式交互和理解。LLaVA旨在更深入地理解和处理语言和视觉信息，从而实现更复杂的任务和对话。这个项目代表了下一代智能助手的发展方向，它能够更好地理解和应对用户需求。
+
+[LLaVA](https://github.com/haotian-liu/LLaVA)
+
+![LLaVA](https://github.com/mawanxiangone/interesting/assets/142721542/e841ad77-1cf3-4f84-9c28-fd3c0bec1f43)
 
 
 ## :stuck_out_tongue: 没用的东西
