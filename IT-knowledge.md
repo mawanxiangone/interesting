@@ -142,6 +142,14 @@ graph TD;
 [虚拟桌宠模拟器](https://github.com/LorisYounger/VPet)
 ![VPet-Simulator](https://github.com/mawanxiangone/interesting/assets/142721542/2f017785-b26f-45eb-8969-7ddc087f7a76)
 
-## 编程语言
-### python
-#### 1
+## :stuck_out_tongue: 编程语言
+### :fearful: python的Web框架
+```mermaid
+pie
+    title Pie Chart
+    "Flask" : 39
+    "Django" : 39
+    "FastAPI" : 25
+```
+
+
