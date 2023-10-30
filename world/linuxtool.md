@@ -81,7 +81,7 @@ fi
 
 ### :no_mobile_phones: 新增SSH密钥到GitHub帐户
 
-![1698169077575](image/linux/1698169077575.png)
+![1698169077575](https://github.com/mawanxiangone/interesting/assets/142721542/010f3794-fc3d-4daf-b6ab-fb6ed84ed0a5)
 
 ### :no_mobile_phones: 测试SSH连接
 
