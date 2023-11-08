@@ -1,6 +1,6 @@
-# 2023年10月
+# 😇 2023年10月
 
-## Rust教程:comprehensive-rust
+## 🫥 Rust教程:comprehensive-rust
 项目地址：https://github.com/google/comprehensive-rust
 
 开源时间：2022-12-21
@@ -9,7 +9,7 @@
 
 推荐理由：这是Google开放的一个全面的Rust技术教程，涵盖了Rust的基本语法到高级主题，包括泛型、错误处理、Android开发等。通过这个教程，您将全面学习Rust的基础知识，掌握Rust应用程序的编写和常用开发技巧。
 
-## 免费的GPT-4 API:gpt4free-ts
+## 🫥 免费的GPT-4 API:gpt4free-ts
 项目地址：https://github.com/xiangsx/gpt4free-ts
 
 开源时间：2023-05-04
@@ -22,7 +22,7 @@
 
 推荐理由：gpt4free-ts是提供免费OpenAI GPT-4 API的项目，这是xtekky/gpt4free项目的TypeScript版本。它为开发者提供了使用GPT-4的API接口，使得无需支付额外费用就能够访问强大的自然语言处理能力。
 
-## incubator-streampark
+## 🫥 incubator-streampark
 
 项目地址：https://github.com/apache/incubator-streampark
 
@@ -36,7 +36,7 @@
 
 推荐理由：Flink/Spark 极速开发框架，一站式流数据处理平台。提供开箱即用的流式大数据开发体验，可在平台上统一管理配置、开发、测试、部署、监控、运维的整个过程
 
-## 多语言代码大模型基座:codeshell
+## 🫥 多语言代码大模型基座:codeshell
 项目地址：https://github.com/WisdomShell/codeshell
 
 开源时间：2023-09-22
