@@ -37,7 +37,8 @@ GitHub上一个开源的LeetCode题解仓库，里面涵盖了多种编程语言
 
 [leetcode](https://github.com/doocs/leetcode)
 
-![leetcode](https://github.com/mawanxiangone/interesting/assets/142721542/9074f79e-54e7-4b3d-ac56-e438fefacdb4)
+![leetcode](https://github.com/mawanxiangone/interesting/assets/142721542/04368026-2415-4bf1-9c47-341c6f1c6918)
+
 
 
 ## :stuck_out_tongue: 生产力工具
