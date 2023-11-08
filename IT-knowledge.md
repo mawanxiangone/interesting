@@ -21,7 +21,13 @@
 
 ![developer-roadmap](https://github.com/mawanxiangone/interesting/assets/142721542/f5446705-e87a-496a-bb24-c4d5a89f402b)
 
+### :fearful: 系统设计指南:system-design-101
 
+**推荐理由**：一个用视觉和简单的术语解释复杂系统设计的项目。它帮助你准备系统设计面试，通过图形和易懂的解释帮助你理解复杂系统的设计原则。如果您准备面试或对系统设计感兴趣，这个项目可以帮助您深入了解系统设计的核心概念
+
+[system-design-101](https://github.com/ByteByteGoHq/system-design-101#explaining-json-web-token-jwt-to-a-10-year-old-kid)
+
+![system-design-101](https://github.com/mawanxiangone/interesting/assets/142721542/49112082-12fb-42c2-94c4-ea2ddd095a25)
 
 
 ## :stuck_out_tongue: 生产力工具
