@@ -2,6 +2,7 @@
 # :nose: 沉溺在知识的深渊里
 
 ## :stuck_out_tongue: 书籍理论
+
 ### :fearful: 算法
 [hello-algo](https://www.hello-algo.com/chapter_preface/)
 > 本项目旨在创建一本开源免费、新手友好的数据结构与算法入门教程。
@@ -9,6 +10,7 @@
 - 算法源代码皆可一键运行，支持 Java、C++、Python、Go、JS、TS、C#、Swift、Rust、Dart、Zig 等语言。
 - 鼓励读者在章节讨论区互帮互助、共同进步，提问与评论通常可在两日内得到回复。
 ![算法](https://github.com/mawanxiangone/interesting/assets/142721542/d264344e-e89e-4bbe-a819-73d2cee7711a)
+
 ### :fearful: free-programming-books编程书籍集锦
 [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)
 ![free-programming-books](https://github.com/mawanxiangone/interesting/assets/142721542/8cd57810-dbea-43c7-976f-0d34a8ddbd51)
@@ -29,16 +31,28 @@
 
 ![system-design-101](https://github.com/mawanxiangone/interesting/assets/142721542/49112082-12fb-42c2-94c4-ea2ddd095a25)
 
+### :fearful: 开源的编程题解仓库:leetcode
+
+GitHub上一个开源的LeetCode题解仓库，里面涵盖了多种编程语言的LeetCode代码实现，其中包括排序算法、链表、二叉树、栈和队列、动态规划等算法知识点。
+
+[leetcode](https://github.com/doocs/leetcode)
+
+![leetcode](https://github.com/mawanxiangone/interesting/assets/142721542/9074f79e-54e7-4b3d-ac56-e438fefacdb4)
+
 
 ## :stuck_out_tongue: 生产力工具
+
 ### :fearful: hackingtool
 [hackingtool](https://github.com/Z4nzu/hackingtool)
 ![hackingtool](https://github.com/mawanxiangone/interesting/assets/142721542/27b0c8c7-ac55-4aee-a18e-96aaecb54da2)
+
 ### :fearful: DevToys
 [hackingtool](https://github.com/veler/DevToys)
 ![DevToys](https://github.com/mawanxiangone/interesting/assets/142721542/ccc953e9-b313-4983-b5e9-e42d0e3e68d2)
+
 ### :fearful: 高斯飞溅实时辐射场渲染
 [高斯飞溅实时辐射场渲染](https://github.com/LorisYounger/VPet)
+
 ### :fearful: Microsoft-Activation-Scripts
 [Windows和Office激活器](https://github.com/massgravel/Microsoft-Activation-Scripts#download--how-to-use-it)
 ```mermaid
@@ -52,17 +66,21 @@ graph TD;
 
 ### :fearful: 跨平台文件管理工具:spacedrive
 
+Spacedrive是一个用Rust编写的跨平台文件管理工具。它基于虚拟分布式文件系统(VDFS)的Rust实现，可以将不同操作系统的设备连接起来，实现统一的文件管理。虽然项目仍在开发阶段，需要用户自行编译客户端，但它提供了一种方便且安全的方式来管理和共享文件。
+
 [跨平台文件管理工具:spacedrive](https://github.com/spacedriveapp/spacedrive)
 
 
 
 ## :stuck_out_tongue: 他山之玉
+
 ### :fearful: c50projects50
 > 50 个采用 HTML+CSS+JS 的前端小项目集合。项目包含网页源码和效果展示，标准入门级的前端开源项目。通过查看效果让新手感受前端的美妙，简单的源码降低了上手写代码门槛。
 
 [50projects](https://github.com/bradtraversy/50projects50days)
 
 ![50projects](https://github.com/mawanxiangone/interesting/assets/142721542/124e51d6-5475-4943-b3f0-f27a982fca13)
+
 ### :fearful: appwrite
 - 主要语言：TypeScript
 - 项目分类：[中间件] [工具]
@@ -72,6 +90,7 @@ graph TD;
 [appwrite](https://github.com/appwrite/appwrite#windows)
 
 ![appwrite](https://github.com/mawanxiangone/interesting/assets/142721542/baa3ed19-d3b0-4509-9fe0-6983b0f92263)
+
 ### :fearful: homepage定制应用程序仪表板
 - 主要语言：JavaScript
 - 项目分类：[工具]
@@ -81,6 +100,7 @@ graph TD;
 [定制应用程序仪表板](https://github.com/gethomepage/homepage)
 
 ![定制应用程序仪表板](https://github.com/mawanxiangone/interesting/assets/142721542/a5eb8992-488c-4948-a446-1875e645726e)
+
 ### :fearful: 开源游戏引擎godot
 - 主要语言：C++
 - 项目分类：[游戏]
@@ -90,6 +110,7 @@ graph TD;
 [开源游戏引擎godot](https://github.com/godotengine/godot)
 
 ![开源游戏引擎godot](https://github.com/mawanxiangone/interesting/assets/142721542/d7a82eb3-c875-46d6-84ef-593878f1f9d4)
+
 ### :fearful: 可视化的Python框架:streamlit
 - 主要语言：Python
 - 项目分类：[前端] [工具] [应用软件]
@@ -99,6 +120,7 @@ graph TD;
 [可视化的Python框架:streamlit](https://github.com/streamlit/streamlit)
 
 ![可视化的Python框架:streamlit](https://github.com/mawanxiangone/interesting/assets/142721542/61e17667-6f2d-453f-91a0-f1791c9c02a2)
+
 ### :fearful: 先进的前端拖放页面生成器:elementor
 - 主要语言：JavaScript
 - 项目分类：[设计] [前端]
@@ -111,8 +133,10 @@ graph TD;
 
 
 ## :stuck_out_tongue: 人工智能
+
 ### :fearful: MetaGPT
 [MetaGPT](https://github.com/geekan/MetaGPT)
+
 ### :fearful: Llama2-Chinese
 欢迎来到Llama中文社区！我们是一个专注于Llama模型在中文方面的优化和上层建设的高级技术社区。 *基于大规模中文数据，从预训练开始对Llama2模型进行中文能力的持续迭代升级*。 我们热忱欢迎对大模型LLM充满热情的开发者和研究者加入我们的行列。
 🚀 高级工程师团队支持：社区有一批专注为大家服务的NLP高级工程师，我们有着强大的技术支持和丰富的经验，为您提供专业的指导和帮助。
@@ -125,12 +149,15 @@ graph TD;
 
 🤝 开放共享：我们鼓励社区成员开源分享代码和模型，推动合作共赢，共同促进中文NLP技术的发展。
 [Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese)
+
 ### :fearful: facefusion
 [facefusion](https://github.com/facefusion/facefusion)
 ![facefusion](https://github.com/mawanxiangone/interesting/assets/142721542/00f4fd97-1fb9-44ec-a686-dfdb86abcedc)
+
 ### :fearful: lllyasviel
 [lllyasviel](https://github.com/lllyasviel/Fooocus)
 ![lllyasviel](https://github.com/mawanxiangone/interesting/assets/142721542/e65c628b-cc58-429f-8b5c-202e01710b3c)
+
 ### :fearful: open-interpreter
 - 主要语言：Python
 - 项目分类：[工具] [AI]
@@ -138,6 +165,7 @@ graph TD;
 - 推荐理由：一个允许在您的终端本地运行OpenAI的代码解释器的项目。它为开发者提供了一种便捷的方式来解释和执行OpenAI生成的代码，使其在本地环境中更易于调试和测试。这个工具对于开发基于OpenAI的应用程序和算法非常有用。
 
 [open-interpreter](https://github.com/KillianLucas/open-interpreter)
+
 ### :fearful: DocsGPT
 - 主要语言：Python
 - 项目分类：[ChatGPT] [AI]
@@ -147,6 +175,7 @@ graph TD;
 [DocsGPT](https://github.com/arc53/DocsGPT)
 
 ![DocsGPT](https://github.com/mawanxiangone/interesting/assets/142721542/c457f29c-db7f-4180-9f65-f596ca63513a)
+
 ### :fearful: LLaVA
 - 主要语言：Python
 - 项目分类：[ChatGPT] [AI]
@@ -159,6 +188,7 @@ graph TD;
 
 
 ## :stuck_out_tongue: 没用的东西
+
 ### :fearful: 虚拟桌宠模拟器
 [虚拟桌宠模拟器](https://github.com/LorisYounger/VPet)
 ![VPet-Simulator](https://github.com/mawanxiangone/interesting/assets/142721542/2f017785-b26f-45eb-8969-7ddc087f7a76)
@@ -171,6 +201,7 @@ graph TD;
 
 
 ## :stuck_out_tongue: 编程语言
+
 ### :fearful: python的Web框架
 ```mermaid
 pie
