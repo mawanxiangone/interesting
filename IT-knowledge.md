@@ -1,4 +1,4 @@
-
+![image](https://github.com/mawanxiangone/interesting/assets/142721542/793800cd-0698-4a5d-aa0d-2a4b49ca9ee9)
 # :nose: 沉溺在知识的深渊里
 
 ## :stuck_out_tongue: 书籍理论
@@ -49,8 +49,6 @@ graph TD;
 ### :fearful: GitHub统计信息生成工具
 [GitHub统计信息生成工具github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)
 ![GitHub统计信息生成工具](https://github.com/mawanxiangone/interesting/assets/142721542/c1e7dc65-2776-414a-94f5-12e0c28ef544)
-
-### 
 
 ## :stuck_out_tongue: 他山之玉
 ### :fearful: c50projects50
@@ -158,6 +156,12 @@ graph TD;
 ### :fearful: 虚拟桌宠模拟器
 [虚拟桌宠模拟器](https://github.com/LorisYounger/VPet)
 ![VPet-Simulator](https://github.com/mawanxiangone/interesting/assets/142721542/2f017785-b26f-45eb-8969-7ddc087f7a76)
+
+### 基于Electro的音乐软件:lx-music-desktop
+
+[lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+![lx-music-desktop](https://github.com/mawanxiangone/interesting/assets/142721542/9f7ca5e8-155d-4a44-9838-5811998e532c)
+
 
 ## :stuck_out_tongue: 编程语言
 ### :fearful: python的Web框架
