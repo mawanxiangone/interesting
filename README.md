@@ -89,6 +89,11 @@
 
 ![image](https://github.com/mawanxiangone/interesting/assets/142721542/cf3abb83-7b5f-472f-861e-f12a40cc181d)
 
+### 🏡 天涯神贴
+
+- 😃 [天涯神贴](https://www.cbaigui.com/):
+
+
 ## 💀 无用大瓠
 
 ### 🏡 随机网站
