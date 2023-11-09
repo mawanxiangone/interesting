@@ -91,8 +91,7 @@
 
 ### 🏡 天涯神贴
 
-- 😃 [天涯神贴](https://www.cbaigui.com/):
-
+- 😃 [天涯神贴](https://github.com/shengcaishizhan/kkndme_tianya/tree/master):
 
 ## 💀 无用大瓠
 
