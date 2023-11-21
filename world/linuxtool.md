@@ -222,4 +222,5 @@ git add text.md
 git commit -m "Update text.md with new changes"
 
 # 提交推送到远程GitHub仓库
+git push origin world
 ```
