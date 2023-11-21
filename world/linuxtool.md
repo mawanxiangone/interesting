@@ -1,10 +1,10 @@
-# :no_entry_sign: Git
+# 🚫 Git
 
-## :underage: Git配置SSH登录
+## 🔞 Git配置SSH登录
 
 > [GitHub文档操作指导](https://docs.github.com/zh/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys "GitHub")
 
-### :no_mobile_phones: 客户端生成SSH密钥
+### 📵 客户端生成SSH密钥
 
 ```bash
 # 打开git bash
@@ -32,7 +32,7 @@ ssh-keygen -t ed25519 -C "csjmjy@outlook.com"
 # +----[SHA256]-----+
 ```
 
-### :no_mobile_phones: 将 SSH 密钥添加到 ssh-agent
+### 📵 将 SSH 密钥添加到 ssh-agent
 
 ```bash
 # 在新的_管理员提升_终端窗口(PowerShell 或 CMD)中,确保 ssh-agent 正在运行
@@ -44,7 +44,7 @@ ssh-add C:\Users\材料用途的工人\.ssh\id_ed25519
 # Identity added: C:\Users\鏉愭枡鐢ㄩ€旂殑宸ヤ汉\.ssh\id_ed25519 (csjmjy@outlook.com)
 ```
 
-### :no_mobile_phones: 使用SSH密钥密码
+### 📵 使用SSH密钥密码
 
 ```bash
 # 添加或更改密码:Z!3WyrPTjV9zx31r
@@ -79,11 +79,11 @@ fi
 ---------------------------------------------------------------------------------------------------
 ```
 
-### :no_mobile_phones: 新增SSH密钥到GitHub帐户
+### 📵 新增SSH密钥到GitHub帐户
 
-![1698169077575](https://github.com/mawanxiangone/interesting/assets/142721542/010f3794-fc3d-4daf-b6ab-fb6ed84ed0a5)
+![1698169077575](image/linux/1698169077575.png)
 
-### :no_mobile_phones: 测试SSH连接
+### 📵 测试SSH连接
 
 ```bash
 $ ssh -T git@github.com
@@ -95,7 +95,7 @@ $ ssh -T git@github.com
 # Hi mawanxiangone! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
-### :no_mobile_phones: 检查现有SSH密钥
+### 📵 检查现有SSH密钥
 
 ```bash
 $ ls -al ~/.ssh
@@ -108,9 +108,9 @@ $ ls -al ~/.ssh
 # -rw-r--r-- 1 材料用途的工人 197121  776 10月 25 01:40 known_hosts.old
 ```
 
-## :underage: Git命令
+## 🔞 Git命令
 
-### :no_mobile_phones: git branch
+### 📵 git branch
 
 ```bash
 # 查看本地分支列表
@@ -123,23 +123,22 @@ git branch -d <分支>
 git branch -D <分支>
 ```
 
-### :no_mobile_phones: git checkout
+### 📵 git checkout
 
 ```bash
 # 切换分支
 git checkout main
 ```
 
-### :no_mobile_phones: git status
+### 📵 git status
 
 ```bash
 
 ```
 
+## 🔞 远程仓库使用
 
-## :underage: 远程仓库使用
-
-### :no_mobile_phones: 克隆现有仓库
+### 📵 克隆现有仓库
 
 ```bash
 $ git clone https://github.com/mawanxiangone/interesting.git
@@ -152,7 +151,7 @@ $ git clone https://github.com/mawanxiangone/interesting.git
 # Resolving deltas: 100% (53/53), done.
 ```
 
-### :no_mobile_phones: 仓库分支操作
+### 📵 仓库分支操作
 
 ```bash
 # 查看本地分支列表
@@ -184,7 +183,7 @@ git status
 
 ```
 
-### :no_mobile_phones: 创建文件
+### 📵 创建文件
 
 ```bash
 
@@ -194,7 +193,7 @@ git checkout world
 # 创建一个文件夹
 mkdir world
 
-# 文件夹创建文件
+# 文件夹创建文件,新建对象都要以下几步
 touch.exe world.md
 
 # 新创建的文件夹添加到版本控制
@@ -208,4 +207,19 @@ git commit -m "Add new folder and file to repository"
 git push origin world
 
 # 
+```
+
+### 📵 文件内容更新推送
+
+```bash
+# 拉取最新的远程更新
+git pull origin main
+
+# 本地的变动添加到Git的暂存区
+git add text.md
+
+# 提交文件的变动
+git commit -m "Update text.md with new changes"
+
+# 提交推送到远程GitHub仓库
 ```
