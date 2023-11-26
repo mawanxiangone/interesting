@@ -75,7 +75,7 @@ conda info -e
 
 ```
 
-## ## 🕒conda list
+## 🕒conda list
 
 ```shell
 # 查看虚拟环境详细信息
