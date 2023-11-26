@@ -1,4 +1,4 @@
-![882dd805ly1hi1x5i51xpj20v91vo4gd](E:\Network\typora\图片\882dd805ly1hi1x5i51xpj20v91vo4gd.jpg)
+![882dd805ly1hi1x5i51xpj20v91vo4gd](IT-tool/882dd805ly1hi1x5i51xpj20v91vo4gd.jpg)
 
 ------
 
@@ -75,7 +75,7 @@ conda info -e
 
 ```
 
-## 🕒conda list
+## ## 🕒conda list
 
 ```shell
 # 查看虚拟环境详细信息
