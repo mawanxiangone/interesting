@@ -202,6 +202,8 @@ git add world
 # 提交更改
 git commit -m "Add new folder"
 git commit -m "Add new folder and file to repository"
+# 粗暴的方式
+git commit -am "你的提交信息"
 
 # 将本地的更改推送到GitHub上的分支
 git push origin world
