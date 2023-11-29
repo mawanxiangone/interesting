@@ -83,7 +83,6 @@ fi
 
 ![1698169077575](linuxtool/1698169077575.png)
 
-
 ### 📵 测试SSH连接
 
 ```bash
@@ -205,6 +204,10 @@ git commit -m "Add new folder"
 git commit -m "Add new folder and file to repository"
 # 粗暴的方式
 git commit -am "你的提交信息"
+# 更简单粗暴的方法
+git add .
+git commit -m "添加新文件夹及文件"
+git push origin <你的分支名>
 
 # 将本地的更改推送到GitHub上的分支
 git push origin world
