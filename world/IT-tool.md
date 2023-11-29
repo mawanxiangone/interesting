@@ -3,6 +3,7 @@
 ------
 
 # 🕧markdown高级语法
+
 ## 🕒脑图
 
 - [ ] graph TD 竖向思维导图
@@ -50,14 +51,23 @@ pie title Pets adopted by volunteers
     "Cats" : 85
     "Rats" : 15
 ```
+
 # 🕧conda
+
+## 🕒window添加环境变更
+
+```bash
+D:\Tool\conda\Library\lib
+D:\Tool\conda\Scripts
+```
+
 ## 🕒conda update
 
 ```shell
 # 升级conda到最新版本
 conda update conda
-conda update update
 ```
+
 ## 🕒conda env
 
 ```shell
@@ -88,8 +98,13 @@ conda list -n <虚拟环境>
 ```shell
 # 创建虚拟环境
 conda create --name mypy3110 python=3.11.0
-# 激活虚拟环境,需要初始化环境：conda init
+
+# 激活虚拟环境,需要初始化环境:conda init
 conda.bat activate mypy3110
+
+# cmd C:\Windows\System32执行
+conda activate mypy3110
+
 # 退出虚拟环境
 conda deactivate
 
@@ -103,26 +118,31 @@ conda deactivate
 conda remove -n <虚拟环境> <包>
 
 ```
+
 ## 🕒conda search
 
 ```shell
 # 查看conda支持的python版本
 conda search "^python$"
 conda search "^python=3*"
+# 查看conda最新版本
+conda search -c anaconda conda
 ```
+
 ## 🕒conda init
 
 ```shell
 # 初始化环境
-conda init powershell
-conda init bash
-conda init 
+conda init --all
 ```
 
 ## 🕒conda install
 
 ```shell
 conda.exe install -n <虚拟环境> <包>
+
+# 清华源找不到包时,试下如下
+conda install sxtwl -n my3110 -c https://anaconda.org
 
 ```
 
@@ -132,6 +152,7 @@ conda.exe install -n <虚拟环境> <包>
 
 
 ```
+
 ## 🕒conda config
 
 ```shell
@@ -151,7 +172,7 @@ conda config --remove-key proxy_servers.http
 ## 🕒conda run
 
 ```shell
-# `myenv`的Conda环境，运行`my_script.py`:
+# `myenv`的Conda环境,运行`my_script.py`:
 conda run -n myenv python my_script.py
 
 ```
@@ -159,7 +180,7 @@ conda run -n myenv python my_script.py
 # 🕧powershell
 
 ```bash
-# 过滤特定字段，以及所在行的后几行
+# 过滤特定字段,以及所在行的后几行
 cat .\kimli.log  | Select-String -Pattern 'ps -e -o' -CaseSensitive -SimpleMatch  -Context 0,3
 
 ```
@@ -175,7 +196,12 @@ winget search Microsoft.PowerShell
 ### 🫁install
 
 ```powershell
+ winget install Miniconda3 --accept-package-agreements --accept-source-agreements --no-upgrade --uninstall-previous --force -l D:/Tool/conda --rainbow
+```
+### 🫁uninstall
 
+```bash
+winget uninstall --force --purge --accept-source-agreements Miniconda3
 ```
 
 ### 🫁list
@@ -201,7 +227,7 @@ winget search Microsoft.PowerShell
 ### 🫁文件哈希值计算
 
 ```bash
-# 哈希计算，比如SHA256
+# 哈希计算,比如SHA256
 certutil.exe -hashfile E:\Work\运营商工作\杭研工作\杭研资料\openEuler-20.03-LTS-SP3-aarch64-dvd.iso SHA256
 ```
 
@@ -209,5 +235,5 @@ certutil.exe -hashfile E:\Work\运营商工作\杭研工作\杭研资料\openEul
 
 ```bash
 # git 升级
-git update-git-for-windows
+git update git --rainbow
 ```
