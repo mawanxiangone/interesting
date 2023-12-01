@@ -191,6 +191,13 @@ conda run -n myenv python my_script.py
 # 过滤特定字段,以及所在行的后几行
 cat .\kimli.log  | Select-String -Pattern 'ps -e -o' -CaseSensitive -SimpleMatch  -Context 0,3
 
+# 查看笔记本wifi密码
+netsh wlan show profiles
+netsh wlan show profile name="WiFi名称" key=clear
+
+# 查看笔记本系统详情
+msinfo32
+
 ```
 
 ## 🕒winget

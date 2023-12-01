@@ -149,6 +149,10 @@ $ git clone https://github.com/mawanxiangone/interesting.git
 # remote: Total 179 (delta 17), reused 3 (delta 3), pack-reused 140
 # Receiving objects: 100% (179/179), 48.00 KiB | 434.00 KiB/s, done.
 # Resolving deltas: 100% (53/53), done.
+
+# 指定特定分支
+git checkout -b local_branch_name origin/branch_name
+
 ```
 
 ### 📵 仓库分支操作
