@@ -151,7 +151,7 @@ $ git clone https://github.com/mawanxiangone/interesting.git
 # Resolving deltas: 100% (53/53), done.
 
 # 指定特定分支
-git checkout -b local_branch_name origin/branch_name
+git clone -b world https://github.com/mawanxiangone/interesting.git
 
 ```
 
