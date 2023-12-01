@@ -83,6 +83,10 @@ conda.exe env remove -n <虚拟环境>
 # 当前激活的 Conda 虚拟环境
 conda info -e
 
+# 查看安装路径
+conda info --envs
+conda info --base
+
 ```
 
 ## 🕒conda list
@@ -98,6 +102,7 @@ conda list -n <虚拟环境>
 ```shell
 # 创建虚拟环境
 conda create --name mypy3110 python=3.11.0
+conda create -p /path/to/desired/location/myenv
 
 # 激活虚拟环境,需要初始化环境:conda init
 conda.bat activate mypy3110
@@ -116,6 +121,9 @@ conda deactivate
 ```shell
 # 删除包
 conda remove -n <虚拟环境> <包>
+
+# 删除虚拟环境
+conda remove --name your_env_name --all
 
 ```
 
