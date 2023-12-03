@@ -1,9 +1,8 @@
-#! https://zhuanlan.zhihu.com/p/670197018
 github项目地址 [Real-ESRGAN](tps://github.com/xinntao/Real-ESRGAN/blob/master/README_CN.md).
 
-# Real-ESRGAN的使用
+# 🧠Real-ESRGAN的使用
 
-## conda 创建虚拟环境
+## 👁conda 创建虚拟环境
 
 - 建议用conda的虚拟环境,python版本用3.11.0,我用3.12.0试过,3.12.0版本目前不匹配,会影响Real-ESRGAN安装
 
@@ -13,7 +12,7 @@ conda create --name my3110 python=3.11.0
 conda activate my3110
 ```
 
-## 本地构造Real-ESRGAN
+## 👁本地构造Real-ESRGAN
 
 ```bash
 # 下载项目到本地,前提已准备有git环境,可以从github拉取,如果没有git,直接github上下载下来也行
@@ -36,7 +35,7 @@ pip.exe install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/ -
 python.exe .\setup.py develop
 ```
 
-## 下载训练模型
+## 👁下载训练模型
 
 ```bash
 # 第一次执行动作的主要目的让它自动下载模型,如下命令,-n 指定模型RealESRGAN_x4plus,RealESRGAN_x4plus本地不存在,则会自动下载这个模型
@@ -45,7 +44,7 @@ python.exe inference_realesrgan.py -n RealESRGAN_x4plus -i D:\Tool\windowstool\g
 
 ![1701456400868](image/Real-ESRGAN/1701456400868.png)
 
-## 修复图片命令解释
+## 👁修复图片命令解释
 
 ```bash
 usage: inference_realesrgan.py [-h] [-i INPUT] [-n MODEL_NAME] [-o OUTPUT] [-dn DENOISE_STRENGTH] [-s OUTSCALE] [--model_path MODEL_PATH] [--suffix SUFFIX] [-t TILE] [--tile_pad TILE_PAD] [--pre_pad PRE_PAD] [--face_enhance] [--fp32]
@@ -115,7 +114,7 @@ options:
 
 ```
 
-## 修复图片测试
+## 👁修复图片测试
 
 我的笔记本性能可能有问题,试了几个模板都提示CUDA问题:
 
@@ -136,7 +135,7 @@ python.exe inference_realesrgan.py -i D:\Tool\windowstool\github\linux\202311140
 
 ![1701623468059](image/Real-ESRGAN/1701623468059.png)
 
-## 修复视频命令解释
+## 👁修复视频命令解释
 
 
 
