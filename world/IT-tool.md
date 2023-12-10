@@ -190,6 +190,7 @@ conda run -n myenv python my_script.py
 ```bash
 # 过滤特定字段,以及所在行的后几行
 cat .\kimli.log  | Select-String -Pattern 'ps -e -o' -CaseSensitive -SimpleMatch  -Context 0,3
+Get-Content 'C:\Users\a1993\Desktop\1236.log' | Select-String -Pattern 'ssh -p 333 boco4a|vswitch|\:\[ | eth'
 
 # 查看笔记本wifi密码
 netsh wlan show profiles
