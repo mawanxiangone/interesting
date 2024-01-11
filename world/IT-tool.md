@@ -151,7 +151,15 @@ conda.exe install -n <虚拟环境> <包>
 
 # 清华源找不到包时,试下如下
 conda install sxtwl -n my3110 -c https://anaconda.org
+# 如果conda 安装不了，直接虚拟环境下，pip吧
+pip.exe install openpyxl -i https://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
 
+# 查看虚拟环境安装的包
+conda activate <>
+conda list
+
+# 虚拟环境运行代码
+python.exe .\homcpeall_account.py "F:/accountall.log"
 ```
 
 ## 🕒.condarc
