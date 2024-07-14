@@ -562,9 +562,9 @@ certutil.exe -hashfile E:\Work\运营商工作\杭研工作\杭研资料\openEul
 git update git --rainbow
 ```
 
-# 杂物
+## 🕒杂物
 
-## centos9挂载文件夹
+### 🫁centos9挂载文件夹
 
 - vmware给centos9挂载共享的文件夹
 
