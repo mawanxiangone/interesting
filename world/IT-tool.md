@@ -437,6 +437,9 @@ git config --list
 git config --global --get http.proxy
 git config --global --get https.proxy
 git config --global --get core.gitproxy
+
+# 修改.git/config中url为ssh方式
+url = git@github.com:mawanxiangone/interesting.git
 ```
 
 ### 📵git remote
