@@ -565,10 +565,17 @@ git push origin <你的分支名>
 git push origin world
 ```
 
-### 删除文件
+### 📵删除文件
 
 ```bash
+# 删除文件 example.txt
+git rm example.txt
 
+# 提交更改
+git commit -m "删除文件 example.txt"
+
+# 推送更改到 main 分支
+git push origin main
 ```
 
 ### 📵 文件内容更新推送
