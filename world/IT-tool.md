@@ -469,7 +469,54 @@ git clone -b world https://github.com/mawanxiangone/interesting.git
 
 ```
 
-### 📵 仓库分支操作
+### 📵合并分支
+
+```bash
+# 使用 SSH 克隆仓库
+git clone git@github.com:mawanxiangone/interesting.git
+cd interesting
+
+# 切换到 main 分支
+git checkout main
+
+# 拉取最新的 main 分支更新
+git pull origin main
+
+# 查看远程分支列表
+git fetch origin
+git branch -r
+
+# 创建并切换到本地 world 分支
+git checkout -b world origin/world
+
+# 切换回 main 分支并合并 world 分支
+git checkout main
+git merge world
+
+# 处理可能的合并冲突 (如果有)
+# 编辑有冲突的文件，然后使用 git add 添加解决后的文件
+# git add <resolved_file>
+
+# 提交合并 (如果有冲突需要手动提交)
+
+# 推送更新到远程仓库
+git push origin main
+```
+
+### 📵删除分支
+
+```bash
+# 切换到主分支
+git checkout main
+
+# 删除本地分支 world
+git branch -d world  # 如果未合并，使用 git branch -D world
+
+# 删除远程分支 world
+git push origin --delete world
+```
+
+### 📵 创建分支
 
 ```bash
 # 查看本地分支列表
@@ -486,19 +533,6 @@ git push -u origin world
 
 # 切换分支
 git checkout main
-
-# 删除分支
-git branch -d <分支>
-
-# 强制删除分支(未合并的更改将会丢失)
-git branch -D <分支>
-
-# 更改推送到 GitHub 上
-git push origin --delete specification
-
-# 查看本地仓库的更改状态:
-git status
-
 ```
 
 ### 📵 创建文件
@@ -529,8 +563,12 @@ git push origin <你的分支名>
 
 # 将本地的更改推送到GitHub上的分支
 git push origin world
+```
 
-# 
+### 删除文件
+
+```bash
+
 ```
 
 ### 📵 文件内容更新推送
