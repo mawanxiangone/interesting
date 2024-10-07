@@ -59,6 +59,19 @@ D:\Tool\conda\Library\lib
 D:\Tool\conda\Scripts
 ```
 
+## 🕒conda clean
+
+```bash
+# 删除未使用的软件包和缓存
+
+```
+
+## 🕒conda doctor
+
+```bash
+# 显示环境的健康报告
+```
+
 ## 🕒conda update
 
 ```shell
@@ -127,6 +140,14 @@ conda remove --name your_env_name --all
 
 ```
 
+## 🕒conda rename 
+
+```bash
+# 重命名现有环境
+```
+
+
+
 ## 🕒conda search
 
 ```shell
@@ -172,10 +193,16 @@ python.exe .\homcpeall_account.py "F:/accountall.log"
 ## 🕒conda config
 
 ```shell
+# custom_channels 自定义通道
+
 # 列出当前配置
 conda config --show
 # 添加下载源
 conda config --add channels https://mirrors.aliyun.com/anaconda/pkgs/main/
+# 清华源
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/msys2
 # 删除下载源
 conda config --remove channels https://mirrors.aliyun.com/anaconda/pkgs/main/
 # 设置代理
@@ -184,6 +211,8 @@ conda config --set proxy_servers.https https://your_proxy_server
 # 清除配置选项
 conda config --remove-key proxy_servers.http
 
+# 当update conda 出现404错误时，可以把channels删除，试试看
+conda config --remove-key channels defaults
 ```
 ## 🕒conda run
 
@@ -328,6 +357,7 @@ ssh-add C:\Users\材料用途的工人\.ssh\id_ed25519
 ### 📵 使用SSH密钥密码
 
 ```bash
+# 打开Git bash
 # 添加或更改密码:Z!3WyrPTjV9zx31r
 $ ssh-keygen -p -f ~/.ssh/id_ed25519
 # Key has comment 'csjmjy@outlook.com'
