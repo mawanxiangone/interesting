@@ -63,7 +63,6 @@ D:\Tool\conda\Scripts
 
 ```bash
 # 删除未使用的软件包和缓存
-
 ```
 
 ## 🕒conda doctor
@@ -99,7 +98,6 @@ conda info -e
 # 查看安装路径
 conda info --envs
 conda info --base
-
 ```
 
 ## 🕒conda list
@@ -107,7 +105,6 @@ conda info --base
 ```shell
 # 查看虚拟环境详细信息
 conda list -n <虚拟环境>
-
 ```
 
 ## 🕒conda create
@@ -125,8 +122,6 @@ conda activate mypy3110
 
 # 退出虚拟环境
 conda deactivate
-
-
 ```
 
 ## 🕒conda remove
@@ -137,16 +132,13 @@ conda remove -n <虚拟环境> <包>
 
 # 删除虚拟环境
 conda remove --name your_env_name --all
-
 ```
 
-## 🕒conda rename 
+## 🕒conda rename
 
 ```bash
 # 重命名现有环境
 ```
-
-
 
 ## 🕒conda search
 
@@ -187,7 +179,6 @@ python.exe .\homcpeall_account.py "F:/accountall.log"
 
 ```shell
 
-
 ```
 
 ## 🕒conda config
@@ -214,12 +205,12 @@ conda config --remove-key proxy_servers.http
 # 当update conda 出现404错误时，可以把channels删除，试试看
 conda config --remove-key channels defaults
 ```
+
 ## 🕒conda run
 
 ```shell
 # `myenv`的Conda环境,运行`my_script.py`:
 conda run -n myenv python my_script.py
-
 ```
 
 ```bash
@@ -233,7 +224,6 @@ netsh wlan show profile name="WiFi名称" key=clear
 
 # 查看笔记本系统详情
 msinfo32
-
 ```
 
 # 🕧node
@@ -253,8 +243,6 @@ npm install -g
 # 查看npm配置
 npm config get registry
 npm config get prefix
-
-
 ```
 
 # 🕧powershell
@@ -272,6 +260,7 @@ winget search Microsoft.PowerShell
 ```powershell
  winget install Miniconda3 --accept-package-agreements --accept-source-agreements --no-upgrade --uninstall-previous --force -l D:/Tool/conda --rainbow
 ```
+
 ### 🫁uninstall
 
 ```bash
@@ -295,11 +284,11 @@ winget uninstall --force --purge --accept-source-agreements Miniconda3
 ```powershell
 
 ```
+
 ## 🕒包管理
 
 ```bash
 # Get-Help Get-AppxPackage
-
 ```
 
 ## 🕒tasklist
@@ -446,9 +435,11 @@ git checkout main
 ```bash
 
 ```
+
 ### 📵git remote
 
 ```bash
+
 ```
 
 ### 📵git config
@@ -476,9 +467,7 @@ url = git@github.com:mawanxiangone/interesting.git
 
 ```bash
 # 检查连接状态
-
 ```
-
 
 ## 🔞 远程仓库使用
 
@@ -496,7 +485,6 @@ $ git clone https://github.com/mawanxiangone/interesting.git
 
 # 指定特定分支
 git clone -b world https://github.com/mawanxiangone/interesting.git
-
 ```
 
 ### 📵合并分支
@@ -568,7 +556,6 @@ git checkout main
 ### 📵 创建文件
 
 ```bash
-
 # 切换分支
 git checkout world
 
@@ -647,8 +634,8 @@ git update git --rainbow
 - vmware给centos9挂载共享的文件夹
 
 ```bash
-4.0及更高版本的Linux内核	                                                              说明
-/usr/bin/vmhgfs-fuse .host:/ /home/user1/shares -o subtype=vmhgfs-fuse,allow_other	   将所有共享装载到/home/user1/shares
-/usr/bin/vmhgfs-fuse .host:/foo /tmp/foo -o subtype=vmhgfs-fuse,allow_other	           将名为foo的共享装载到/tmp/foo
-/usr/bin/vmhgfs-fuse .host:/foo/bar /var/lib/bar -o subtype=vmhgfs-fuse,allow_other	   将共享foo中的子目录bar装载到/var/lib/bar
+4.0及更高版本的Linux内核                                                                  说明
+/usr/bin/vmhgfs-fuse .host:/ /home/user1/shares -o subtype=vmhgfs-fuse,allow_other       将所有共享装载到/home/user1/shares
+/usr/bin/vmhgfs-fuse .host:/foo /tmp/foo -o subtype=vmhgfs-fuse,allow_other               将名为foo的共享装载到/tmp/foo
+/usr/bin/vmhgfs-fuse .host:/foo/bar /var/lib/bar -o subtype=vmhgfs-fuse,allow_other       将共享foo中的子目录bar装载到/var/lib/bar
 ```
