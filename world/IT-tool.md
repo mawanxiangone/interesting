@@ -439,7 +439,8 @@ git checkout main
 ### 📵git remote
 
 ```bash
-
+# 修改通信为ssh方式 
+git remote set-url origin git@github.com:mawanxiangone/interesting.git
 ```
 
 ### 📵git config
@@ -608,7 +609,7 @@ git add text.md
 git commit -m "Update text.md with new changes"
 
 # 提交推送到远程GitHub仓库
-git push origin world
+git push origin world 
 ```
 
 ## 🕒杂项
