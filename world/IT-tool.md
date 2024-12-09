@@ -839,7 +839,16 @@ Options:
 yt-dlp -F --proxy socks5://127.0.0.1:11010 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 # 下载 
 yt-dlp -f 251 --proxy socks5://127.0.0.1:11010 https://www.youtube.com/watch?v=_z1gkuCZFtc -o "F:/%(title)s.%(ext)s"
+# 通过浏览器cookies下载
+yt-dlp -f 251 --cookies github.txt --proxy socks5://127.0.0.1:10100 https://www.youtube.com/watch?v=X3z_WGOLl2A -o "F:/%(title)s.%(ext)s"^
 ```
 
+### 🫁提取cookies
 
+1. 下载插件
 
+![](IT-tool/2024-12-10-01-09-18-image.png)
+
+2. 导出cookies
+
+![](IT-tool/2024-12-10-01-11-20-image.png)
