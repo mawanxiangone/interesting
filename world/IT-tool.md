@@ -620,6 +620,26 @@ git commit -m "Update text.md with new changes"
 git push origin world 
 ```
 
+### 📵推送新文件夹到github
+
+```bash
+# git init
+
+# 通过SSH，确认新建github
+
+git remote add origin git@github.com:mawanxiangone/manstrory.git
+
+# 添加文件到暂存区
+git add .
+
+# 提交文件
+git add -m "starbucks"
+
+# 强制覆盖
+git push -u origin main --force
+
+```
+
 # 🕒杂项
 
 ## 🫁文件哈希值计算
