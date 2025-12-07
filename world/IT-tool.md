@@ -194,16 +194,24 @@ conda config --add channels https://mirrors.aliyun.com/anaconda/pkgs/main/
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/msys2
+# 默认
+conda config --add channels defaults
 # 删除下载源
 conda config --remove channels https://mirrors.aliyun.com/anaconda/pkgs/main/
-# 设置代理
+# 设置代理，一般而言，需要设置代理才能正常更新conda
 conda config --set proxy_servers.http http://your_proxy_server
 conda config --set proxy_servers.https https://your_proxy_server
+#
+conda config --set proxy_servers.http socks5h://127.0.0.1:11010
+conda config --set proxy_servers.https socks5h://127.0.0.1:11010
 # 清除配置选项
 conda config --remove-key proxy_servers.http
 
 # 当update conda 出现404错误时，可以把channels删除，试试看
 conda config --remove-key channels defaults
+# 清除缓存
+conda clean -i
+
 ```
 
 ## 🕒conda run

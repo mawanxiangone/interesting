@@ -59,4 +59,7 @@ ffmpeg -i VID_20240714_202331.mp4 -c:v copy -an output_silent_video.mp4
 
 ```bash 
 ffmpeg -i output_silent_video.mp4 -i 3669198660.flac -shortest output_video_with_audio.mp4
+# 如果视频比音频长 → 剪掉多余视频尾巴 如果音频比视频长 → 剪掉多余音频尾巴
+ffmpeg -i video.mp4 -i audio.m4a -c copy -shortest output.mp4
+
 ```
