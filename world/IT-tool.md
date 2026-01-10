@@ -565,11 +565,17 @@ git checkout main
 ### 📵 创建文件
 
 ```bash
+# 拉取最新的远程更新
+git pull origin main
+
 # 切换分支
 git checkout world
 
 # 创建一个文件夹
 mkdir world
+
+# 初始化
+git init
 
 # 文件夹创建文件,新建对象都要以下几步
 touch.exe world.md
@@ -604,39 +610,41 @@ git commit -m "删除文件 example.txt"
 git push origin main
 ```
 
-### 📵 文件内容更新推送
-
-```bash
-# 拉取最新的远程更新
-git pull origin main
-
-# 本地的变动添加到Git的暂存区
-git add text.md
-
-# 提交文件的变动
-git commit -m "Update text.md with new changes"
-
-# 提交推送到远程GitHub仓库
-git push origin world 
-```
-
 ### 📵推送新文件夹到github
 
 ```bash
-# git init
+git rev-parse --show-toplevel
+## 工作路径出错时，会导致一系列问题，如果有问题，请执行以下命令：删除路径文件的.git
+Remove-Item -Recurse -Force F:\mawanxiao\starbucks\.git
+Remove-Item -Recurse -Force F:\mawanxiao\.git
 
-# 通过SSH，确认新建github
 
+# 在github上创建一个仓库manstrory 不要勾选 README 不要勾选 .gitignore 不要勾选 License
+
+# 在你的本地 Git 仓库根目录（F:\mawanxiao）执行：本地绑定这个远程仓库
+git remote set-url origin git@github.com:mawanxiangone/manstrory.git
+
+
+# 在正确位置重新初始化 Git
+
+cd F:\mawanxiao
+git init
+# Reinitialized existing Git repository in F:/mawanxiao/.git/
 git remote add origin git@github.com:mawanxiangone/manstrory.git
 
-# 添加文件到暂存区
-git add .
+# 只添加 starbucks 文件夹
+git add starbucks
+git commit -m "upload starbucks folder"
 
-# 提交文件
-git add -m "starbucks"
-
-# 强制覆盖
+# 推送到 GitHub
+git branch -M main
 git push -u origin main --force
+
+# 查看本地 origin 指向哪里 
+
+git remote -v
+
+
 
 ```
 
