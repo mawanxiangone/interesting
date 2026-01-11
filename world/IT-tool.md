@@ -496,40 +496,6 @@ $ git clone https://github.com/mawanxiangone/interesting.git
 git clone -b world https://github.com/mawanxiangone/interesting.git
 ```
 
-### 📵合并分支
-
-```bash
-# 使用 SSH 克隆仓库
-git clone git@github.com:mawanxiangone/interesting.git
-cd interesting
-
-# 切换到 main 分支
-git checkout main
-
-# 拉取最新的 main 分支更新
-git pull origin main
-
-# 查看远程分支列表
-git fetch origin
-git branch -r
-
-# 创建并切换到本地 world 分支
-git checkout -b world origin/world
-
-# 切换回 main 分支并合并 world 分支
-git checkout main
-git merge world
-
-# 处理可能的合并冲突 (如果有)
-# 编辑有冲突的文件，然后使用 git add 添加解决后的文件
-# git add <resolved_file>
-
-# 提交合并 (如果有冲突需要手动提交)
-
-# 推送更新到远程仓库
-git push origin main
-```
-
 ### 📵删除分支
 
 ```bash
@@ -541,60 +507,10 @@ git branch -d world  # 如果未合并，使用 git branch -D world
 
 # 删除远程分支 world
 git push origin --delete world
-```
 
-### 📵 创建分支
-
-```bash
-# 查看本地分支列表
-git branch
-
-# 拉取远程仓库的最新更改
-git pull origin main
-
-# 创建分支
-git checkout -b world
-
-# 新分支推送到 GitHub 上
-git push -u origin world
-
-# 切换分支
-git checkout main
-```
-
-### 📵 创建文件
-
-```bash
-# 拉取最新的远程更新
-git pull origin main
-
-# 切换分支
-git checkout world
-
-# 创建一个文件夹
-mkdir world
-
-# 初始化
-git init
-
-# 文件夹创建文件,新建对象都要以下几步
-touch.exe world.md
-
-# 新创建的文件夹添加到版本控制
-git add world
-
-# 提交更改
-git commit -m "Add new folder"
-git commit -m "Add new folder and file to repository"
-# 粗暴的方式
-git commit -am "你的提交信息"
-# 更简单粗暴的方法
-git add .
-git commit -m "添加新文件夹及文件"
-git push origin <你的分支名>
-
-# 将本地的更改推送到GitHub上的分支
-git push origin world
+# 查看远程分支列表
+git fetch origin
+git branch -r
 ```
 
 ### 📵删除文件
@@ -617,7 +533,6 @@ git rev-parse --show-toplevel
 ## 工作路径出错时，会导致一系列问题，如果有问题，请执行以下命令：删除路径文件的.git
 Remove-Item -Recurse -Force F:\mawanxiao\starbucks\.git
 Remove-Item -Recurse -Force F:\mawanxiao\.git
-
 
 # 在github上创建一个仓库manstrory 不要勾选 README 不要勾选 .gitignore 不要勾选 License
 
@@ -644,9 +559,10 @@ git push -u origin main --force
 
 git remote -v
 
-
-
+# 图片问题：请把图片设置成相对路径，而不是F:\mawanxiao\interesting\花色密语.assets\，这样会导致github显示图片错误
 ```
+
+
 
 # 🕒杂项
 
