@@ -559,7 +559,22 @@ git push -u origin main --force
 
 git remote -v
 
-# 图片问题:请把图片设置成相对路径,而不是F:\mawanxiao\interesting\花色密语.assets\,这样会导致github显示图片错误
+# 图片问题:请把图片设置成相对路径,而不是F:\mawanxiao\interesting\花色密语.assets\,这样会导致github显示图片错误 ![xxx](/assets/植物/xxx.png)
+# 在typora上需要保持类似![1693762006275](image/kubernetes/1693762006275.png)
+
+
+# 简单粗暴推送
+# 1. 进到项目目录
+cd F:\mawanxiao\interesting
+
+# 2. 添加所有变动（新增、修改、删除）
+git add -A
+
+# 3. 提交
+git commit -m "update"
+
+# 4. 推送到 GitHub
+git push
 ```
 
 # 6. 🕒杂项
