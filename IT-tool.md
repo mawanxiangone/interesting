@@ -561,6 +561,7 @@ git remote -v
 
 # 图片问题:请把图片设置成相对路径,而不是F:\mawanxiao\interesting\花色密语.assets\,这样会导致github显示图片错误 ![xxx](/assets/植物/xxx.png)
 # 在typora上需要保持类似![1693762006275](image/kubernetes/1693762006275.png)
+# gitbub对文件名带有（）显示不出来
 
 
 # 简单粗暴推送
