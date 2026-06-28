@@ -1,5 +1,7 @@
 # 🎈 interesting
 
+![202606071320 (39)](README.assets/202606071320 (39).jpg)
+
 ## 💀 有哪些命令行的软件堪称神器？
 
 ### 🏡 Proselint
